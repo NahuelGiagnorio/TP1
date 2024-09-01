@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color: #313e0c;
+}
+
+body {
+    font-family: "Raleway", sans-serif;
+    text-align: justify;
+    color: #606c38;
+    background-color: #faedcd;
+}
+
+ul em {
+    text-decoration: underline;
+}
+
+a {
+    color: #313e0c;
+}
+
+#center {
+    text-align: center;
+}
